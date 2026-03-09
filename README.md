@@ -30,8 +30,9 @@ I enjoy solving complex engineering problems, optimizing performance, and buildi
 # 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apekshamadavi/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madavi.apekhas@gmail.com)
+<!--
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Apeksha Madavi)
-
+-->
 # 💻 Tech Stack
 
 ### 👨‍💻 Languages
