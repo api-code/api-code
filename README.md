@@ -144,9 +144,12 @@ Optimized Java backend APIs for better performance and reliability.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=api-code&theme=tokyonight&layout=compact&hide_border=true)
 
+<!--
+
 ---
 
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/api-code/api-code/blob/output/github-contribution-grid-snake.svg)
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
