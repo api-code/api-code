@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Apeksha Madavi
+![](https://komarev.com/ghpvc/?username=api-code&color=blue&style=for-the-badge)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Distributed+Systems+Engineer;Building+Scalable+Backend+Systems&center=true&width=800&height=45)
 
@@ -142,4 +143,10 @@ Optimized Java backend APIs for better performance and reliability.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=api-code&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=api-code&theme=tokyonight&layout=compact&hide_border=true)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/api-code/api-code/blob/output/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
