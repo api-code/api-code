@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currenlty working at Opus technology<br>i am Api-code<br>I studied Computer Science and Engineering
+I am currenlty working at Opus technology<br>I am Api-code<br>I studied Computer Science and Engineering
 
 
 ## 🌐 Socials:
