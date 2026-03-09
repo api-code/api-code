@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Apeksha Madavi
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Distributed+Systems+Engineer;Building+Scalable+Backend+Systems&center=true&width=800&height=45)
+
 ## 💫 About Me
 💻 Software Engineer with **3+ years of experience** designing and building scalable backend systems.
 
@@ -133,9 +135,11 @@ Designed backend services with scalable communication patterns.
 🔹 **High Performance REST API**  
 Optimized Java backend APIs for better performance and reliability.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=api-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=api-code&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=api-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=api-code&theme=tokyonight&show_icons=true&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=api-code&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=api-code&theme=tokyonight&layout=compact&hide_border=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
