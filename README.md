@@ -137,6 +137,8 @@ Designed backend services with scalable communication patterns.
 🔹 **High Performance REST API**  
 Optimized Java backend APIs for better performance and reliability.
 
+---
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=api-code&theme=tokyonight&show_icons=true&hide_border=true)
