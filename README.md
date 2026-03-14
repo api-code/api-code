@@ -143,9 +143,9 @@ Optimized Java backend APIs for better performance and reliability.
 
 ![](https://github-readme-stats.vercel.app/api?username=api-code&theme=tokyonight&show_icons=true&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=api-code&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=api-code&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=api-code&theme=tokyonight&layout=compact&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=api-code&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
